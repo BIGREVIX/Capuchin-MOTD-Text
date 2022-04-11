@@ -1,0 +1,2 @@
+Hey, this update adds player collision. Try to walk on each other look how fun it is! Sorry for this being such a small update, I've been running out of ideas lol. But I'll
+add more stuff soon!
