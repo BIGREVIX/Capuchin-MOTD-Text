@@ -1,4 +1,6 @@
-Hey sorry, quick fix
+Hey! quick update
 
--added Code Of Conduct board above the couch
--water should be fixed (it slowly went higher than i should have)
+-added player count
+-added Code Of Conduct
+-fixed water animation (hopefully)
+-added better player model
