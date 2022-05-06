@@ -1,0 +1,12 @@
+Hey, This update has a HUGE amount of new things
+
+-added map loading
+-added a little camera in tunnels
+-added accounts
+-added banning
+-added new music in shop
+-removed the hangout spot in jungle
+-removed bananas
+-added little ores in tunnels
+-fixed a few things with water attack
+-added arms to the player
