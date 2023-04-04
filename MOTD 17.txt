@@ -1,6 +1,0 @@
-Hey! This beta tests a few new fixes just to make sure nothing is bugged out. Yes i know some of the textures are bugged, im fixing that now.
-
--removed little hangout spot in jungle and moved igloo there
--made so metal stuff more snowy and icey
--added little security camera in tunnels (its visible on the pc)
--added new little things in other maps

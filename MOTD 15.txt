@@ -1,6 +1,0 @@
-Hey! quick update
-
--added player count
--added Code Of Conduct
--fixed water animation (hopefully)
--added better player model

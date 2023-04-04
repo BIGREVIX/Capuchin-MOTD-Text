@@ -1,8 +1,0 @@
-Hey! This update adds quite a lot to the game
-
--moved some stuff around in jungle
--added a map loader system (because i noticed some lag in penguinsvile)
--removed the player count temporarily
--fixed a few issues with the locomtion being janky
--added a little design for the keyboard (it doesn't work yet, but its almost there)
--other stuff i forgot 
